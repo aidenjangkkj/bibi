@@ -1,0 +1,48 @@
+/*NanumSquare*/
+@font-face {
+	font-family: "NanumSquare";
+	src: url("./fonts/NanumSquareL.woff2") format("woff2"), /* Modern Browsers */
+		 url("./fonts/NanumSquareL.woff") format("woff"), /* Modern Browsers */
+		 url("./fonts/NanumSquareL.otf") format("opentype"), /* Open Type Font */
+		 url("./fonts/NanumSquareL.svg") format("svg"), /* Legacy iOS */
+		 url("./fonts/NanumSquareL.ttf") format("truetype"), /* Safari, Android, iOS */
+		 url("./fonts/NanumSquareL.eot?#iefix") format("embedded-opentype"); /* IE6-IE8 */
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "NanumSquare";
+	src: url("./fonts/NanumSquareR.woff2") format("woff2"), /* Modern Browsers */
+		 url("./fonts/NanumSquareR.woff") format("woff"), /* Modern Browsers */
+		 url("./fonts/NanumSquareR.otf") format("opentype"), /* Open Type Font */
+		 url("./fonts/NanumSquareR.svg") format("svg"), /* Legacy iOS */
+		 url("./fonts/NanumSquareR.ttf") format("truetype"), /* Safari, Android, iOS */
+		 url("./fonts/NanumSquareR.eot?#iefix") format("embedded-opentype"); /* IE6-IE8 */
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "NanumSquare";
+	src: url("./fonts/NanumSquareB.woff2") format("woff2"), /* Modern Browsers */
+		 url("./fonts/NanumSquareB.woff") format("woff"), /* Modern Browsers */
+		 url("./fonts/NanumSquareB.otf") format("opentype"), /* Open Type Font */
+		 url("./fonts/NanumSquareB.svg") format("svg"), /* Legacy iOS */
+		 url("./fonts/NanumSquareB.ttf") format("truetype"), /* Safari, Android, iOS */
+		 url("./fonts/NanumSquareB.eot?#iefix") format("embedded-opentype"); /* IE6-IE8 */
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "NanumSquare";
+	src: url("./fonts/NanumSquareEB.woff2") format("woff2"), /* Modern Browsers */
+		 url("./fonts/NanumSquareEB.woff") format("woff"), /* Modern Browsers */
+		 url("./fonts/NanumSquareEB.otf") format("opentype"), /* Open Type Font */
+		 url("./fonts/NanumSquareEB.svg") format("svg"), /* Legacy iOS */
+		 url("./fonts/NanumSquareEB.ttf") format("truetype"), /* Safari, Android, iOS */
+		 url("./fonts/NanumSquareEB.eot?#iefix") format("embedded-opentype"); /* IE6-IE8 */
+	font-weight: 800;
+	font-style: normal;
+}
